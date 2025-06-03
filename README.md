@@ -1,1 +1,1 @@
-# TRVD_2025_201_TK_Kulyk_Lab2
+TRVD_2025_201_TK_Kulyk_Lab2
